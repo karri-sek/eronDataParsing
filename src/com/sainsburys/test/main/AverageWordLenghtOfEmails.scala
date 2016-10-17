@@ -47,9 +47,4 @@ class AverageWordLenghtOfEmails {
     
   }
   
-  def calculateAvgLength(fileContents: String): Unit = {
-    
-  }
-  
-  
 }
